@@ -2,7 +2,7 @@
 - 👀 Estou interessada em promover a inclusão de profissionais PcD's no mercado Tech.
 - 🌱 Aprendendo todos os dias sobre o Universo fascinante da Tecnologia.
 - 💞️ Procuro desenvolvedores front, back e full stack (PcD's)
-- 📫 How to reach me https://www.linkedin.com/in/larissemachado-rh/
+- 📫 Você pode me ecnontrar aqui: https://www.linkedin.com/in/larissemachado-rh/
 
 <!---
 larissemac/larissemac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
